@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Skills
+
+- **Back-end Development**: PHP, Laravel, MySQL
+- **Front-end Development**: HTML, CSS, JavaScript, React
+- **Version Control**: Git, GitHub
+- **Database Management**: MySQL, SQLite
+- **API Development**: RESTful APIs
+- **Deployment**: AWS, Heroku
+- **Tools**: VS Code, Git, npm, Composer
+
+## Skills
+
+- **Back-end Development**: <i class="fab fa-php"></i> PHP, Laravel, MySQL
+- **Front-end Development**: <i class="fab fa-html5"></i> HTML, <i class="fab fa-css3"></i> CSS, <i class="fab fa-js"></i> JavaScript, <i class="fab fa-react"></i> React
+- **Version Control**: <i class="fab fa-git"></i> Git, <i class="fab fa-github"></i> GitHub
+- **Database Management**: MySQL, SQLite
+- **API Development**: RESTful APIs
+- **Deployment**: AWS, Heroku
+- **Tools**: VS Code, Git, npm, Composer
