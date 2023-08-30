@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Mehadi Hasan
 #### Full Stack Web Developer
-
+<h2 style="align:center;"> Hi there 👋, I'm Mehadi Hasan</h2>
 
 I'm a Full-stack Stack Web Developer with 2+ years of experience. I specialize in PHP Laravel for back-end and front-end technologies.
 
