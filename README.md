@@ -1,8 +1,7 @@
 ![Full Stack Web Developer](https://media.licdn.com/dms/image/C4D16AQEMeXZLzbKPHA/profile-displaybackgroundimage-shrink_350_1400/0/1656692641813?e=1698883200&v=beta&t=lxTaS48JmprGF6JAC8cwwCLZpblV0VwuMTxOXK9m9KQ)
 
-### Hi there 👋, I'm Mehadi Hasan
-#### Full Stack Web Developer
-<h2 style="align:center;"> Hi there 👋, I'm Mehadi Hasan</h2>
+<h2 align="center"> Hi there 👋, I'm Mehadi Hasan</h2>
+<h3 align="center">Full Stack Web Developer</h3>
 
 I'm a Full-stack Stack Web Developer with 2+ years of experience. I specialize in PHP Laravel for back-end and front-end technologies.
 
