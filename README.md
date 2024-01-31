@@ -3,8 +3,6 @@
 <h2 align="center"> Hi there 👋, I'm Mehadi Hasan</h2>
 <h3 align="center">Full Stack Web Developer</h3>
 
-I'm a Full-stack Stack Web Developer with 2+ years of experience. I specialize in PHP Laravel for back-end and front-end technologies.
-
 Skills: HTML || CSS || javaScript || jQuery || Bootstrap || PHP || Laravel || MySQLi || Ajax & Axios || OOP Design Patterns || RESTful API || Problem-solving || SQL Injection
 
 - 🔭 I’m currently working on this Laravel Project. 
